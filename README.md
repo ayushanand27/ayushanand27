@@ -62,8 +62,8 @@ I build products end to end, from the database and API to a deployed link.
 
 ## Skills
 
-**Languages:** C, C++, JavaScript, TypeScript, Python, SQL
-**Frontend:** React, Next.js, Tailwind CSS, Vite
-**Backend and data:** Node.js, Express, FastAPI, Prisma, MySQL, PostgreSQL, Redis, JWT, Google OAuth
-**Tools:** Git, GitHub Actions, Docker, AWS EC2, Azure, Vitest, pytest
-**AI:** LLM integration, RAG, AI agents
+- **Languages:** C, C++, JavaScript, TypeScript, Python, SQL
+- **Frontend:** React, Next.js, Tailwind CSS, Vite
+- **Backend and data:** Node.js, Express, FastAPI, Prisma, MySQL, PostgreSQL, Redis, JWT, Google OAuth
+- **Tools:** Git, GitHub Actions, Docker, AWS EC2, Azure, Vitest, pytest
+- **AI:** LLM integration, RAG, AI agents
