@@ -1,6 +1,6 @@
-# Hi, I'm Ayush Anand 👋
+# Hi, I'm Ayush 👋
 
-**I build AI products end to end: RAG, agents and full-stack apps, from the database and API to a deployed link.**
+**I build AI products and ship them live. I'm eager to work on new projects, and open to collaborate, contribute and join teams that deliver.**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -11,7 +11,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-Final-year B.Tech CSE (IoT & Intelligent Systems) student at Manipal University Jaipur (CGPA 9.17, graduating May 2027).
+B.Tech CSE (IoT & Intelligent Systems), Manipal University Jaipur (CGPA 9.17, graduating May 2027).
 
 [LinkedIn](https://linkedin.com/in/ayush-anand-457569221) · ayushanandchoudhary543@gmail.com
 
@@ -23,7 +23,7 @@ Final-year B.Tech CSE (IoT & Intelligent Systems) student at Manipal University 
 
 ## Experience
 
-- **GenAI Fullstack Intern, SmartSkale (2026)**: built and deployed a full-stack interview platform (FastAPI, React + TypeScript) on AWS EC2 with Nginx, HTTPS and JWT-based candidate and recruiter roles. Database migrations with Alembic, proctoring, speech transcription and a code-execution service, with unit and integration tests.
+- **GenAI Fullstack Intern, SmartSkale (2026, completed)**: built and deployed a full-stack interview platform (FastAPI, React + TypeScript) on AWS EC2 with Nginx, HTTPS and JWT-based candidate and recruiter roles. Database migrations with Alembic, proctoring, speech transcription and a code-execution service, with unit and integration tests.
   [Live](https://ai-interview-bot.duckdns.org) · [Code](https://github.com/ayushanand27/AI-interview-bot)
 - **Salesforce Launchpad Trainee, PwC Advisory Launchpad (Feb 2026 - Jul 2026)**: training in Generative AI and modern data systems, with hands-on Salesforce Trailhead activities.
 
