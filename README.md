@@ -1,9 +1,25 @@
-# Hi, I'm Ayush Anand
+# Hi, I'm Ayush Anand 👋
+
+**I build AI products end to end: RAG, agents and full-stack apps, from the database and API to a deployed link.**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 Final-year B.Tech CSE (IoT & Intelligent Systems) student at Manipal University Jaipur (CGPA 9.17, graduating May 2027).
-I build products end to end, from the database and API to a deployed link.
 
 [LinkedIn](https://linkedin.com/in/ayush-anand-457569221) · ayushanandchoudhary543@gmail.com
+
+## Featured
+
+- **[SMRA](https://github.com/ayushanand27/SMRA)**: stock research assistant that routes questions to SQL, RAG and web agents. Docker, 86 tests, CI.
+- **[leakkill](https://github.com/ayushanand27/leakkill)**: leaked a key? Find it, check if it is live and revoke it in one command. Zero dependencies, on PyPI.
+- **[Nirdesh](https://github.com/ayushanand27/nirdesh)** · **[AI Interview Bot](https://github.com/ayushanand27/AI-interview-bot)** · **[SameAsk](https://github.com/ayushanand27/SameAsk)**: deployed apps with live links below.
 
 ## Experience
 
@@ -15,7 +31,7 @@ I build products end to end, from the database and API to a deployed link.
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **Email Job Scheduler** (Outbox Labs assignment) | Schedules emails with delayed jobs (no cron), survives restarts, hourly limits per sender, Slack alerts, Bull Board | TypeScript, Express, BullMQ, Redis, MySQL, Elasticsearch, React, Tailwind | Private repo, built for the Outbox Labs take-home |
+| **Email Job Scheduler** (Outbox Labs assignment) | Schedules emails with delayed jobs (no cron), survives restarts, hourly limits per sender, Slack alerts, Bull Board | TypeScript, Express, BullMQ, Redis, MySQL, Elasticsearch-compatible search, React, Tailwind, Azure | Private repo, built for the Outbox Labs take-home |
 | **The People App** | Find people, groups and events in your city by shared interests, with realtime chat | React, TypeScript, Tailwind, Supabase | [Live](https://the-people-app-website.vercel.app) · [Code](https://github.com/ayushanand27/the_people_app_website) |
 | **Nirdesh** | Shows what a new SEBI circular changes and whether a team is still compliant | React, TypeScript, FastAPI | [Live](https://nirdesh-frontend.onrender.com) · [API docs](https://nirdesh-backend.onrender.com/docs) · [Code](https://github.com/ayushanand27/nirdesh) |
 | **xHire** | Live interviews and coding sessions in one place | Node.js, Express, React, Prisma, PostgreSQL, Socket.IO | [Code](https://github.com/ayushanand27/xhire) |
