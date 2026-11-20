@@ -1,0 +1,12 @@
+openai>=1.40.0
+datasets>=2.20.0
+duckdb>=1.0.0
+httpx>=0.27.0
+tenacity>=8.3.0
+rank-bm25>=0.2.2
+rich>=13.7.0
+pydantic>=2.7.0
+# Required companions (not optional):
+pydantic-settings>=2.3.0   # pydantic v2 split BaseSettings into its own package
+# Optional but recommended: exact OpenAI-style token counts. Falls back to a regex heuristic if missing/offline.
+tiktoken>=0.7.0
