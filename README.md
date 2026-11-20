@@ -48,33 +48,11 @@ B.Tech CSE (IoT & Intelligent Systems), Manipal University Jaipur (CGPA 9.17, gr
 
 ## Certifications
 
-**Industry**
-- HackerRank Orchestrate, Final Rank #260 of 4,094 (Oct 2026)
-- Advisory Launchpad Trainee, Salesforce track, PwC Acceleration Center India (Aug 2026)
 - GenW.AI Architect, Deloitte (Jul 2026)
+- Advisory Launchpad Trainee, Salesforce track, PwC Acceleration Center India (Aug 2026)
 - Gen AI Career Pathway, SmartSkale (Jun 2026)
-- Deloitte Australia Data Analytics Job Simulation, Forage (Oct 2025)
-- Virtual Internship, AI & Data Analytics (Green Skills), AICTE / Edunet Foundation / Shell India (May 2025)
-- Software Engineer, Software Engineer Intern, JavaScript (Intermediate), SQL (Basic), CSS (Basic), HackerRank (May 2025)
 
-**AI and data**
-- Introduction to Big Data with Spark and Hadoop, IBM (Mar 2026)
-- Introduction to Machine Learning, Duke University (Apr 2025)
-- Google Cloud: Transformer Models and BERT, Generative AI Explorer (Vertex AI), Responsible AI, Prompt Design in Vertex AI, Introduction to Responsible AI, Introduction to Large Language Models, Introduction to Generative AI (Dec 2024 - Feb 2025)
-
-**Web, systems and CS fundamentals**
-- React Basics, Meta (Apr 2025)
-- Single Page Web Applications with AngularJS, Johns Hopkins University (Apr 2025)
-- Red Hat System Administration I (RH124) and II (RH134) (Apr 2025)
-- CCNA: Introduction to Networks, Cisco (Nov 2024)
-- NPTEL: Design and Analysis of Algorithms, Database Management System, Programming in Modern C++
-- Microcontroller and Industrial Applications, L&T EduTech (Nov 2025)
-- Introduction to Software Engineering, IBM (May 2024)
-- Digital Systems: From Logic Gates to Processors, Universitat Autonoma de Barcelona (Sep 2024)
-- C for Everyone: Programming Fundamentals, UC Santa Cruz (Apr 2024) · Exploring C, University of Michigan (Apr 2024)
-- Algorithms, Data Collection, and Starting to Code, University of Colorado (Feb 2024)
-- Foundations of Project Management, Foundations of User Experience (UX) Design, Google (Mar 2024)
-- Certificate of Excellence, Round 1 Learning Boot Camp, Unstop Talent Park 2025
+Full list on [LinkedIn](https://linkedin.com/in/ayush-anand-457569221).
 
 ## Skills
 
